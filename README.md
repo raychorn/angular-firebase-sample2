@@ -1,8 +1,6 @@
 # Angular Firebase Project Sample 2
 
-This is a sample project off of which to build Firebase applications with authentication and realtime database support using [AngularFire2](https://github.com/angular/angularfire2).
-
-Made with ♥ by Deb Banerji
+This is a sample project off of which to build Firebase applications with authentication and realtime database support using [AngularFire](https://github.com/angular/angularfire).
 
 ## Setup
 
@@ -28,7 +26,7 @@ Note that if you are running the application anywhere other than `localhost` you
 
 Then create `src/app/config/firebase-config.ts` and fill it out according to the credentials taken from the Firebase console. You can get the config object by clicking "Add Firebase to your web app"
 
-The contents of the file should look similar to this:
+The contents of the file should look similar to this:  [AngularFire Quick Start](https://github.com/angular/angularfire/blob/master/docs/install-and-setup.md)
 ```
 export const config = {
   apiKey: 'YOUR_API_KEY_HERE',
